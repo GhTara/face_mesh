@@ -1,4 +1,4 @@
-# face_mesh
+# face_mesh (mediapipe and OpenCV)
 face landmarks extraction in different situation by mediapipe and OpenCV 
 
 different situation: 
